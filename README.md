@@ -1,2 +1,2 @@
-# crane
-arduino crane that makes you tea
+# the tea crane
+it's a crane that makes you tea
