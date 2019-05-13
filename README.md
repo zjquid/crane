@@ -10,6 +10,10 @@ it's not done yet
 # presentation materials
 * toothpicks
 * teabags
+* cups
+* hot water
+* drip plate/saucer
+* coaster (mug position)
 
 # how to make it
 * download the model schematics
