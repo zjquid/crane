@@ -28,5 +28,5 @@ it's not done yet
 ``
 sudo chmod a+rw /dev/ttyACM0
 ``
-* for the breadboard, follow the picture bread.jpg (coming soon) and make sure the button connects to A0 on the arduino
+* for the breadboard, follow the picture bread.jpg and make sure the button connects to A0 on the arduino
 
