@@ -1,6 +1,5 @@
 # the tea crane
 it's a crane that makes you tea
-it's not done yet
 
 # construction materials
 * micro servo 9g SG90 (x2) (https://www.amazon.com/Tower-Pro-SG90-Analog-Servo/dp/B07B8SJQJD/ref=sr_1_25?keywords=servo+sg90&qid=1557756883&s=toys-and-games&sr=1-25)
